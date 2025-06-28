@@ -33,7 +33,8 @@ A real-time Python project that uses your webcam and OpenCV to detect multiple c
 
 4. Press "q" to run the webcam window
 
-   🎨 Supported Colors
+ 🎨 Supported Colors
+   
 🟥 Red
 
 🟩 Green
@@ -43,6 +44,7 @@ A real-time Python project that uses your webcam and OpenCV to detect multiple c
 🟨 Yellow
 
 🟪 Purple
+
 
 🙋‍♂️ Author
 Kenneth Dandrow (@ktdshock)
