@@ -18,6 +18,31 @@ A real-time Python project that uses your webcam and OpenCV to detect multiple c
 ## 🚀 Getting Started
 
 1. Clone this repo:
+   
    ```bash
    git clone https://github.com/ktdshock/Cam_Color_Detect.git
    cd Cam_Color_Detect
+   
+2. Install dependencies:
+
+   pip install opencv-python numpy
+
+3. Run the app:
+   
+  python color_detect.py
+
+4. Press "q" to run the webcam window
+
+   🎨 Supported Colors
+🟥 Red
+
+🟩 Green
+
+🟦 Blue
+
+🟨 Yellow
+
+🟪 Purple
+
+🙋‍♂️ Author
+Kenneth Dandrow (@ktdshock)
