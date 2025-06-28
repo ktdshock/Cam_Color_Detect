@@ -24,12 +24,12 @@ A real-time Python project that uses your webcam and OpenCV to detect multiple c
    cd Cam_Color_Detect
    
 2. Install dependencies:
-
+   ```bash
    pip install opencv-python numpy
 
 3. Run the app:
-   
-  python color_detect.py
+   ```bash
+   python color_detect.py
 
 4. Press "q" to run the webcam window
 
